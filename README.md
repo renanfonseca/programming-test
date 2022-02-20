@@ -1,11 +1,17 @@
-<h1>programming-test</h1>
+<div align="center">
+<img  src="https://user-images.githubusercontent.com/23081419/154842157-eac83f65-e1e4-4011-b696-d131224cdfc2.png" />
+</div>
 
-### Aplicação desenvolvida do desafio proposto pela Capgemini
+ <h3 align="center">programming-test</h3>
+
+<p>Aplicação desenvolvida do desafio proposto pela Capgemini. Com objetivo de testar conhecimentos de lógica de programação. foram desenvolvidos três algoritmos: primeiro a criação de um que mostre na tela uma escada de tamanho <strong>n</strong> utilizando apenas o caractere * e espaço; o segundo recebece uma senha e mostrase o número mínimo de caracteres que deveriam ser adicionados para a senha ser considerada segura; o terceiro um algoritmo que encontrase o número de pares de substrings que são anagramas.</p>
 
 ## Tecnologias Usadas:
+
+
 <table>
   <tr>
-    <td>Java</td>
+    <td><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><span>Java</span></td>
   </tr>
   <tr>
     <td>17.0.2</td>
