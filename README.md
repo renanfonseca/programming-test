@@ -1,4 +1,12 @@
 <div align="center">
+ <img src="https://img.shields.io/github/license/renanfonseca/programming-test"/>
+ <img src="https://img.shields.io/github/issues/renanfonseca/programming-test"/>
+ <img src="https://img.shields.io/github/forks/renanfonseca/programming-test"/>
+</div>
+</br></br>
+
+
+<div align="center">
 <img  src="https://user-images.githubusercontent.com/23081419/154842157-eac83f65-e1e4-4011-b696-d131224cdfc2.png" />
 </div>
 
