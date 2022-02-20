@@ -6,9 +6,19 @@
 
 <p>Aplicação desenvolvida do desafio proposto pela Capgemini. Com objetivo de testar conhecimentos de lógica de programação. foram desenvolvidos três algoritmos: primeiro a criação de um que mostre na tela uma escada de tamanho <strong>n</strong> utilizando apenas o caractere * e espaço; o segundo recebece uma senha e mostrase o número mínimo de caracteres que deveriam ser adicionados para a senha ser considerada segura; o terceiro um algoritmo que encontrase o número de pares de substrings que são anagramas.</p>
 
-## Tecnologias Usadas:
+  ### Sumario
+  <ol>
+    <li>
+      <a href="#tecnologias-usadas">Tecnologias Usadas</a>
+    </li>
+    <li>
+      <a href="#funcionalidades">Funcionalidades</a>
+    </li>
+    <li><a href="#como-executar-o-projeto">Como executar o projeto</a></li>
+  </ol>
+</details>
 
-
+## Tecnologias Usadas
 <table>
   <tr>
     <td><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><span>Java</span></td>
@@ -51,7 +61,7 @@ Dada uma String como entrada é criado substrings e comparadas para achar o núm
 
 
 
-## Como executar o projeto:
+## Como executar o projeto
 1. Fazer download do <a href="http://jdk.java.net/17/">JDK</a>
 2. Configurar as variáveis de ambiente. jdk-17.0.2 e jdk-17.0.2\bin no Path.
 3. Clonar o repositorio ou baixar os arquivos para sua maquina.
