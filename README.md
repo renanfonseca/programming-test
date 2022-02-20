@@ -13,18 +13,14 @@
  <h3 align="center">programming-test</h3>
 
 <p>Aplicação desenvolvida do desafio proposto pela Capgemini. Com objetivo de testar conhecimentos de lógica de programação. foram desenvolvidos três algoritmos: primeiro a criação de um que mostre na tela uma escada de tamanho <strong>n</strong> utilizando apenas o caractere * e espaço; o segundo recebece uma senha e mostrase o número mínimo de caracteres que deveriam ser adicionados para a senha ser considerada segura; o terceiro um algoritmo que encontrase o número de pares de substrings que são anagramas.</p>
+</br>
 
-  ### Sumario
-  <ol>
-    <li>
-      <a href="#tecnologias-usadas">Tecnologias Usadas</a>
-    </li>
-    <li>
-      <a href="#funcionalidades">Funcionalidades</a>
-    </li>
-    <li><a href="#como-executar-o-projeto">Como executar o projeto</a></li>
-  </ol>
-</details>
+<p align="center">
+ <a href="#tecnologias-usadas">Tecnologias Usadas</a> •
+ <a href="#funcionalidades">Funcionalidades</a> • 
+ <a href="#como-executar-o-projeto">Como executar o projeto</a> • 
+</p>
+
 
 ## Tecnologias Usadas
 <table>
