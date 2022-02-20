@@ -16,9 +16,9 @@
 </br>
 
 <p align="center">
- <a href="#tecnologias-usadas">Tecnologias Usadas</a> •
- <a href="#funcionalidades">Funcionalidades</a> • 
- <a href="#como-executar-o-projeto">Como executar o projeto</a> • 
+ <a href="#tecnologias-usadas">Tecnologias Usadas</a> -
+ <a href="#funcionalidades">Funcionalidades</a> - 
+ <a href="#como-executar-o-projeto">Como executar o projeto</a>
 </p>
 
 
